@@ -2,7 +2,7 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-08-24T09:18:27.935Z",
+  "updatedAt": "2026-08-24T09:19:39.998Z",
   "participants": [
     {
       "id": "p1",
@@ -51,6 +51,12 @@
       "id": "pmt70tggrpux5o",
       "name": "Artem1122",
       "position": 8,
+      "prevPosition": 8
+    },
+    {
+      "id": "pmt70yh1r8uafu",
+      "name": "Askania14",
+      "position": 9,
       "prevPosition": null
     }
   ]
