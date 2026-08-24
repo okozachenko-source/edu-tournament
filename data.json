@@ -2,14 +2,56 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-08-24T09:00:00.000Z",
+  "updatedAt": "2026-08-24T09:18:27.935Z",
   "participants": [
-    { "id": "p1", "name": "Yuliia B.",    "position": 1, "prevPosition": 3 },
-    { "id": "p2", "name": "kozak_777",    "position": 2, "prevPosition": 1 },
-    { "id": "p3", "name": "Iryna K.",     "position": 3, "prevPosition": 2 },
-    { "id": "p4", "name": "Alona S.",     "position": 4, "prevPosition": 6, "note": "qualifier" },
-    { "id": "p5", "name": "NinaO",        "position": 5, "prevPosition": 4 },
-    { "id": "p6", "name": "Ivan A.",      "position": 6, "prevPosition": null },
-    { "id": "p7", "name": "v.kharchenko", "position": 7, "prevPosition": 5 }
+    {
+      "id": "p1",
+      "name": "Yuliia B.",
+      "position": 1,
+      "prevPosition": 1
+    },
+    {
+      "id": "p2",
+      "name": "kozak_777",
+      "position": 2,
+      "prevPosition": 2
+    },
+    {
+      "id": "p3",
+      "name": "Iryna K.",
+      "position": 3,
+      "prevPosition": 3
+    },
+    {
+      "id": "p4",
+      "name": "Alona S.",
+      "position": 4,
+      "prevPosition": 4,
+      "note": "qualifier"
+    },
+    {
+      "id": "p5",
+      "name": "NinaO",
+      "position": 5,
+      "prevPosition": 5
+    },
+    {
+      "id": "p6",
+      "name": "Ivan A.",
+      "position": 6,
+      "prevPosition": 6
+    },
+    {
+      "id": "p7",
+      "name": "v.kharchenko",
+      "position": 7,
+      "prevPosition": 7
+    },
+    {
+      "id": "pmt70tggrpux5o",
+      "name": "Artem1122",
+      "position": 8,
+      "prevPosition": null
+    }
   ]
 }
