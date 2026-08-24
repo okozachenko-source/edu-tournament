@@ -2,7 +2,7 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-08-24T09:21:08.910Z",
+  "updatedAt": "2026-08-24T09:22:29.440Z",
   "participants": [
     {
       "id": "p1",
@@ -30,10 +30,10 @@
       "note": "qualifier"
     },
     {
-      "id": "p5",
-      "name": "NinaO",
+      "id": "pmt70yh1r8uafu",
+      "name": "Askania14",
       "position": 5,
-      "prevPosition": 5
+      "prevPosition": 9
     },
     {
       "id": "p6",
@@ -42,22 +42,22 @@
       "prevPosition": 6
     },
     {
+      "id": "p5",
+      "name": "NinaO",
+      "position": 7,
+      "prevPosition": 5
+    },
+    {
       "id": "p7",
       "name": "v.kharchenko",
-      "position": 7,
+      "position": 8,
       "prevPosition": 7
     },
     {
       "id": "pmt70tggrpux5o",
       "name": "Artem1122",
-      "position": 8,
-      "prevPosition": 8
-    },
-    {
-      "id": "pmt70yh1r8uafu",
-      "name": "Askania14",
       "position": 9,
-      "prevPosition": 9
+      "prevPosition": 8
     }
   ]
 }
