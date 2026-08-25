@@ -2,13 +2,14 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-08-24T14:41:43.249Z",
+  "updatedAt": "2026-08-25T15:32:07.815Z",
   "participants": [
     {
       "id": "p1",
       "name": "Yuliia B.",
       "position": 1,
-      "prevPosition": 1
+      "prevPosition": 1,
+      "note": "Potential winner"
     },
     {
       "id": "p2",
@@ -63,7 +64,7 @@
       "id": "pmt7cgphzhvdhi",
       "name": "Vasya§12",
       "position": 10,
-      "prevPosition": null
+      "prevPosition": 10
     }
   ]
 }
