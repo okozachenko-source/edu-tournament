@@ -2,7 +2,7 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-09-08T14:30:35.502Z",
+  "updatedAt": "2026-09-08T14:31:39.332Z",
   "participants": [
     {
       "id": "p1",
@@ -40,38 +40,38 @@
       "id": "pmtsrkmr2kso26",
       "name": "Markiyan 123",
       "position": 6,
-      "prevPosition": null,
+      "prevPosition": 6,
       "note": "new latest"
     },
     {
       "id": "p6",
       "name": "Ivan A.",
       "position": 7,
-      "prevPosition": 6
+      "prevPosition": 7
     },
     {
       "id": "p5",
       "name": "NinaO",
       "position": 8,
-      "prevPosition": 7
+      "prevPosition": 8
     },
     {
       "id": "p7",
       "name": "v.kharchenko",
       "position": 9,
-      "prevPosition": 8
+      "prevPosition": 9
     },
     {
       "id": "pmt70tggrpux5o",
       "name": "Artem1122",
       "position": 10,
-      "prevPosition": 9
+      "prevPosition": 10
     },
     {
       "id": "pmt7cgphzhvdhi",
       "name": "Vasya§12",
       "position": 11,
-      "prevPosition": 10
+      "prevPosition": 11
     }
   ]
 }
