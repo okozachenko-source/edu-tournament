@@ -2,7 +2,7 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-09-08T14:33:14.234Z",
+  "updatedAt": "2026-09-10T10:32:51.274Z",
   "participants": [
     {
       "id": "p1",
@@ -28,50 +28,57 @@
       "id": "pmt70yh1r8uafu",
       "name": "Askania14",
       "position": 4,
-      "prevPosition": 5
+      "prevPosition": 4
     },
     {
       "id": "pmtsrkmr2kso26",
       "name": "Markiyan 123",
       "position": 5,
-      "prevPosition": 6,
+      "prevPosition": 5,
       "note": "new latest"
+    },
+    {
+      "id": "pmtve0mi0s2ayy",
+      "name": "Alex KKKK",
+      "position": 6,
+      "prevPosition": null,
+      "note": "Will Trump tell Musk to off. Bet = 10 USD. Odd = 9,7"
     },
     {
       "id": "p6",
       "name": "Ivan A.",
-      "position": 6,
-      "prevPosition": 7
+      "position": 7,
+      "prevPosition": 6
     },
     {
       "id": "p5",
       "name": "NinaO",
-      "position": 7,
-      "prevPosition": 8
+      "position": 8,
+      "prevPosition": 7
     },
     {
       "id": "p7",
       "name": "v.kharchenko",
-      "position": 8,
-      "prevPosition": 9
+      "position": 9,
+      "prevPosition": 8
     },
     {
       "id": "pmt70tggrpux5o",
       "name": "Artem1122",
-      "position": 9,
-      "prevPosition": 10
+      "position": 10,
+      "prevPosition": 9
     },
     {
       "id": "p4",
       "name": "Alona S.",
-      "position": 10,
-      "prevPosition": 4,
+      "position": 11,
+      "prevPosition": 10,
       "note": "New User"
     },
     {
       "id": "pmt7cgphzhvdhi",
       "name": "Vasya§12",
-      "position": 11,
+      "position": 12,
       "prevPosition": 11,
       "note": "Bet size 5 EUR"
     }
