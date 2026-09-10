@@ -2,7 +2,7 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-09-10T10:38:36.749Z",
+  "updatedAt": "2026-09-10T10:40:46.374Z",
   "participants": [
     {
       "id": "p1",
@@ -42,7 +42,7 @@
       "name": "Alex KKKK",
       "position": 6,
       "prevPosition": 6,
-      "note": "Will Trump tell Musk to off. Bet = 10 USD. Odd = 9,7"
+      "note": "Will Trump tell Musk to off. Bet = 10 USD. Odd = 9,7. Settlement date = 09/09/2026"
     },
     {
       "id": "p6",
@@ -81,13 +81,6 @@
       "position": 12,
       "prevPosition": 12,
       "note": "Bet size 5 EUR"
-    },
-    {
-      "id": "pmtve9bu73od2m",
-      "name": "Allan Po",
-      "position": 13,
-      "prevPosition": null,
-      "note": "Test"
     }
   ]
 }
