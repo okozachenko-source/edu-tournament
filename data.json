@@ -2,7 +2,7 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-09-17T07:21:36.739Z",
+  "updatedAt": "2026-09-17T07:23:03.411Z",
   "participants": [
     {
       "id": "p1",
@@ -42,25 +42,25 @@
     },
     {
       "id": "p5",
-      "name": "Name 7",
+      "name": "-",
       "position": 7,
       "prevPosition": 7
     },
     {
       "id": "p7",
-      "name": "Name 8",
+      "name": "-",
       "position": 8,
       "prevPosition": 8
     },
     {
       "id": "pmu2a8uk6vstmf",
-      "name": "Name 9",
+      "name": "-",
       "position": 9,
       "prevPosition": 9
     },
     {
       "id": "pmu2aamgkupsg9",
-      "name": "Name 10",
+      "name": "-",
       "position": 10,
       "prevPosition": 10
     }
