@@ -2,69 +2,67 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-09-15T06:22:13.342Z",
+  "updatedAt": "2026-09-17T07:21:36.739Z",
   "participants": [
     {
       "id": "p1",
-      "name": "Name 1",
+      "name": "Данило Б",
       "position": 1,
-      "prevPosition": 1,
-      "note": "Bet size 10 EUR"
+      "prevPosition": 1
     },
     {
       "id": "p2",
-      "name": "Name 2",
+      "name": "Danylo G",
       "position": 2,
-      "prevPosition": 2,
-      "note": "Bet size 9 EUR"
+      "prevPosition": 2
     },
     {
       "id": "p3",
-      "name": "Name 3",
+      "name": "Сергій А",
       "position": 3,
       "prevPosition": 3
     },
     {
       "id": "pmt70yh1r8uafu",
-      "name": "Name 4",
+      "name": "Михайло С",
       "position": 4,
       "prevPosition": 4
     },
     {
       "id": "pmtsrkmr2kso26",
-      "name": "Name 5",
+      "name": "Євген М",
       "position": 5,
       "prevPosition": 5
     },
     {
       "id": "p6",
-      "name": "Name 6",
+      "name": "Олександра Г",
       "position": 6,
-      "prevPosition": 7
+      "prevPosition": 6
     },
     {
       "id": "p5",
       "name": "Name 7",
       "position": 7,
-      "prevPosition": 8
+      "prevPosition": 7
     },
     {
       "id": "p7",
       "name": "Name 8",
       "position": 8,
-      "prevPosition": 9
+      "prevPosition": 8
     },
     {
       "id": "pmu2a8uk6vstmf",
       "name": "Name 9",
       "position": 9,
-      "prevPosition": null
+      "prevPosition": 9
     },
     {
       "id": "pmu2aamgkupsg9",
       "name": "Name 10",
       "position": 10,
-      "prevPosition": null
+      "prevPosition": 10
     }
   ]
 }
