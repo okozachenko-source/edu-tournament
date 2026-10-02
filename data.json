@@ -2,49 +2,49 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-09-23T14:27:08.258Z",
+  "updatedAt": "2026-10-02T10:24:52.829Z",
   "participants": [
     {
       "id": "p2",
       "name": "Danylo G",
       "position": 1,
       "prevPosition": 1,
-      "note": "Total bets placed = 10. Total current win = 17,19 usd."
-    },
-    {
-      "id": "p6",
-      "name": "Олександра Г",
-      "position": 2,
-      "prevPosition": 2,
-      "note": "Total bets placed = 2. Total current win = 5,75 usd."
-    },
-    {
-      "id": "pmt70yh1r8uafu",
-      "name": "Михайло С",
-      "position": 3,
-      "prevPosition": 3,
-      "note": "Total bets placed = 2. Total current win = 1,02 usd."
-    },
-    {
-      "id": "pmtsrkmr2kso26",
-      "name": "Євген М",
-      "position": 4,
-      "prevPosition": 6,
-      "note": "Total bets placed = 2. Total current win = 0 usd."
-    },
-    {
-      "id": "p1",
-      "name": "Данило Б",
-      "position": 5,
-      "prevPosition": 4,
-      "note": "Balance topped up. Total bets placed = 0."
+      "note": "Total bets placed = 17. Total current win = 22,54 usd."
     },
     {
       "id": "p3",
       "name": "Сергій А",
+      "position": 2,
+      "prevPosition": 6,
+      "note": "Total bets placed = 3. Total current win = 17,01 usd."
+    },
+    {
+      "id": "pmtsrkmr2kso26",
+      "name": "Євген М",
+      "position": 3,
+      "prevPosition": 4,
+      "note": "Total bets placed = 10. Total current win = 14,15 usd."
+    },
+    {
+      "id": "p6",
+      "name": "Олександра Г",
+      "position": 4,
+      "prevPosition": 2,
+      "note": "Total bets placed = 4. Total current win = 13,30 usd."
+    },
+    {
+      "id": "pmt70yh1r8uafu",
+      "name": "Михайло С",
+      "position": 5,
+      "prevPosition": 3,
+      "note": "Total bets placed = 2. Total current win = 2,05 usd."
+    },
+    {
+      "id": "p1",
+      "name": "Данило Б",
       "position": 6,
       "prevPosition": 5,
-      "note": "Balance topped up. Total bets placed = 0."
+      "note": "Balance topped up. Bets placed = 0."
     },
     {
       "id": "p5",
