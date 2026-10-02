@@ -2,48 +2,48 @@
   "title": "Leaderboard",
   "subtitle": "",
   "footer": "Turbo Stars",
-  "updatedAt": "2026-10-02T10:24:52.829Z",
+  "updatedAt": "2026-10-02T10:27:33.989Z",
   "participants": [
     {
       "id": "p2",
       "name": "Danylo G",
       "position": 1,
       "prevPosition": 1,
-      "note": "Total bets placed = 17. Total current win = 22,54 usd."
+      "note": "Total bets placed = 17. Current win = 22,54 usd."
     },
     {
       "id": "p3",
       "name": "Сергій А",
       "position": 2,
-      "prevPosition": 6,
-      "note": "Total bets placed = 3. Total current win = 17,01 usd."
+      "prevPosition": 2,
+      "note": "Total bets placed = 3. Current win = 17,01 usd."
     },
     {
       "id": "pmtsrkmr2kso26",
       "name": "Євген М",
       "position": 3,
-      "prevPosition": 4,
-      "note": "Total bets placed = 10. Total current win = 14,15 usd."
+      "prevPosition": 3,
+      "note": "Total bets placed = 10. Current win = 14,15 usd."
     },
     {
       "id": "p6",
       "name": "Олександра Г",
       "position": 4,
-      "prevPosition": 2,
-      "note": "Total bets placed = 4. Total current win = 13,30 usd."
+      "prevPosition": 4,
+      "note": "Total bets placed = 4. Current win = 13,30 usd."
     },
     {
       "id": "pmt70yh1r8uafu",
       "name": "Михайло С",
       "position": 5,
-      "prevPosition": 3,
-      "note": "Total bets placed = 2. Total current win = 2,05 usd."
+      "prevPosition": 5,
+      "note": "Total bets placed = 2. Current win = 2,05 usd."
     },
     {
       "id": "p1",
       "name": "Данило Б",
       "position": 6,
-      "prevPosition": 5,
+      "prevPosition": 6,
       "note": "Balance topped up. Bets placed = 0."
     },
     {
